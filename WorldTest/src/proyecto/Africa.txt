@@ -1,0 +1,15 @@
+MARRUECOS
+SIERRA LEONA
+NIGER
+MADAGASCAR
+CAMERUN
+RABAT
+FREETOWN
+NIAMEY
+ANTANANARIVO
+YAUNDE
+src/proyecto/imagenes/marruecos.jpg
+src/proyecto/imagenes/sierraleona.jpg
+src/proyecto/imagenes/niger.jpg
+src/proyecto/imagenes/madagascar.jpg
+src/proyecto/imagenes/camerun.jpg

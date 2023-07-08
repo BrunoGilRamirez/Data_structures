@@ -1,0 +1,15 @@
+CHINA
+EMIRATOS ARABES UNIDOS
+JAPON
+ISRAEL
+EGIPTO
+PEKIN
+ABU DABI
+TOKIO
+JERUSALEN
+EL CAIRO
+src/proyecto/imagenes/china.jpg
+src/proyecto/imagenes/emiratos.jpg
+src/proyecto/imagenes/japon.jpg
+src/proyecto/imagenes/israel.jpg
+src/proyecto/imagenes/egipto.jpg

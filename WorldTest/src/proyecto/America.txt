@@ -1,0 +1,15 @@
+ARGENTINA
+CANADA
+ESTADOS UNIDOS
+MEXICO
+COLOMBIA
+BUENOS AIRES
+OTTAWA
+WASHINGTON DC
+CDMX
+BOGOTA
+src/proyecto/imagenes/argentina.jpg
+src/proyecto/imagenes/canada.jpg
+src/proyecto/imagenes/usa.jpg
+src/proyecto/imagenes/mexico.jpg
+src/proyecto/imagenes/colombia.jpg

@@ -1,0 +1,16 @@
+NUEVA ZELANDA
+AUSTRALIA
+FIYI
+ISLAS SALOMON
+MICRONESIA
+WELLINGTON
+CAMBERRA
+SUVA
+HONIARA
+PALIKIR
+src/proyecto/imagenes/nuevazelanda.jpg
+src/proyecto/imagenes/Australia.jpg
+src/proyecto/imagenes/fiyi.jpg
+src/proyecto/imagenes/islassalomon.jpg
+src/proyecto/imagenes/micronesia.jpg
+
